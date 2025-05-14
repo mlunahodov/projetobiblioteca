@@ -84,13 +84,10 @@ Biblioteca/
 
 ![Editar Livro](imagens_biblioteca/editar-livro.jpg)
 
-### Confirmação de Exclusão
+### Confirmação de Exclusão (basta clicar no ícone da lixeira)
 
 ![Confirmar Exclusão](imagens_biblioteca/confirmar-exclusao.jpg)
 
-### Detalhes do Livro
-
-![Detalhes](imagens_biblioteca/detalhes-livro.jpg)
 
 ### Visual Geral
 
