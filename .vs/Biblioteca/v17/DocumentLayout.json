@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\views\\home\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:views\\home\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\models\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:models\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\views\\home\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:views\\home\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|c:\\users\\canav\\onedrive\\\u00E1rea de trabalho\\biblioteca\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01802B2D-567D-4E35-BA48-E5C7239A3599}|Biblioteca.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:01:17.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:39:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:35:20.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Listar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Listar.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:21:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:06:46.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:58:30.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Autores.cs",
+              "RelativeDocumentMoniker": "Models\\Autores.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Autores.cs",
+              "RelativeToolTip": "Models\\Autores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:03:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Views\\Home\\Cadastrar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T17:55:52.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroModel.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\LivroModel.cs",
+              "RelativeDocumentMoniker": "Models\\LivroModel.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\LivroModel.cs",
+              "RelativeToolTip": "Models\\LivroModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:35:35.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\canav\\OneDrive\\\u00C1rea de Trabalho\\Biblioteca\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:37:19.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
