@@ -82,7 +82,7 @@ Biblioteca/
 
 ### Edição de Livro
 
-![Editar Livro](imagens_biblioteca/editar-livro.jpg)
+![Editar Livro](imagens_biblioteca/editar-livros.jpg)
 
 ### Confirmação de Exclusão (basta clicar no ícone da lixeira)
 
